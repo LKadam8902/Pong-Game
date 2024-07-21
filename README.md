@@ -12,7 +12,7 @@ This is a simple implementation of the classic Pong game using OpenGL and GLUT. 
 - Simple graphics with a black background, white paddles, and a red ball.
 
   ## Screenshot
-![Game Screenshot]()
+![Game Screenshot](unnamed.png)
 
 ## Installation
 
